@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>1.0.0</modelVersion>
+ 
+  <groupId>com.dop.app</groupId>
+  <artifactId>dop-exp</artifactId>
+  <version>1</version>
+</project>
