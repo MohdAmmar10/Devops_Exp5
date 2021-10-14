@@ -1,6 +1,8 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
- 
+ <build>
+    <defaultGoal>install</defaultGoal>
+  </build>
   <groupId>com.dop.app</groupId>
   <artifactId>dop-exp</artifactId>
   <version>1</version>
